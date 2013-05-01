@@ -1,0 +1,4 @@
+phoenix
+=======
+
+Phoenix Bitcoin Miner
